@@ -1,0 +1,118 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+body
+{
+	width: 805px;
+	height: auto;
+	margin: 0px auto;
+	border: 1px solid black;	
+}
+
+#idnum
+{
+	color: green;
+}
+
+#responseright
+{
+	color: blue;
+}
+#responsewrong
+{
+	color: red;
+}
+.spendtime
+{
+	text-align: center;
+	width: 805px;
+	color: silver;
+	font-size: small;
+}
+.title
+{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	width: 805px;
+	border-bottom-width: 1px;
+	border-bottom-color: black;
+	border-bottom-style: solid;
+	background-color: #D1D1D1;
+}
+
+.title span
+{
+	color: blue;
+	font-size: 16px;
+	font-weight: normal;
+}
+.title a
+{
+	text-align: right;
+	text-decoration: none;
+	font-size: 14px;
+	color: blue;
+	font-weight: normal;
+}
+.main
+{
+	width: 800px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 3px;
+
+}
+
+.main table
+{
+	width: 400px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.main td
+{
+	/*border: 1px solid black;*/
+	font-size: 14px;
+	background-color: #FFFFCC;
+	padding: 0px;
+}
+
+.firstline
+{
+	font-weight: bold;
+}
+
+.copyright
+{
+	width: 805px;
+	color: red;
+	font-size: 12px;
+	text-align: center;
+	background-color: #D1D1D1;
+}
+.author
+{
+	width: 805px;
+	color: gray;
+	text-align: center;
+	border-top-color: black;
+	border-top-style: solid;
+	border-top-width: 1px;
+	background-color: #D1D1D1;
+}
+
+.num form
+{
+	text-align: center;
+	padding:3px;
+}
+
+.num form input
+{
+	width: 120px;
+}
